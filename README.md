@@ -12,5 +12,5 @@ The first 500 entrys where random generated using faker.
 
 The connection with the DB was realized using `Node.js` with the `Express` framework in the app.js file. The page `HTML` was done using `e.js` in side the views folder and there is a simple `CSS` file for esthetics, inside the public folder.
 
-website final image
+website result example
 ![website_result](https://github.com/tnorio/API_web_DB_count/blob/main/Make%20it%20count%20img.png)
