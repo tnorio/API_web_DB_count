@@ -10,4 +10,4 @@ The structure of the project is a simple DB that has one table called `join_us` 
 | email2.emails2@emails.com | 2022-01-21 17:46:30 |
 The first 500 entrys where random generated using faker.
 
-The connection with the DB was realized using `Node.js` with the `Express` framework. The page `HTML` was done using `e.js` and there is a simple `CSS` file for esthetics.
+The connection with the DB was realized using `Node.js` with the `Express` framework in the app.js file. The page `HTML` was done using `e.js` in side the views folder and there is a simple `CSS` file for esthetics, inside the public folder.
