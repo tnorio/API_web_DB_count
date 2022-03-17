@@ -1,0 +1,15 @@
+<!-- conectando ao css e a fonte -->
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400" rel="stylesheet">
+<link rel="stylesheet" href="/app.css">
+
+<div class="flex-container">
+    <div class="container">
+        <h1>Make the counter spin</h1>
+        <p class="lead">Enter your email and help <strong><%= count %></strong> people couting.</p>
+        <form method="POST" action='/register'>
+            <input type="text" name="email" class="form" placeholder="Enter Your Email">
+            <button>Join Now</button>
+        </form>
+		<p1> <%= bottom_txt %> </p1>
+    </div>
+</div>
